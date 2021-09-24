@@ -1,4 +1,4 @@
-My Great Python Module
+My Great Python Modules
 ======================
 
 This useless module makes a beautiful plot!
